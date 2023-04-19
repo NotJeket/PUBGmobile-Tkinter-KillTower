@@ -4,12 +4,10 @@ This code retrieves data from two JSON APIs and displays the status of each play
 
 **Screenshot**
 
-![](Aspose.Words.519502d0-1632-440e-ba62-9814d2301199.001.png)
-
+![Aspose Words 519502d0-1632-440e-ba62-9814d2301199 002](https://user-images.githubusercontent.com/37781149/233167591-4be21ced-0de0-4d60-80f0-98d0eff22a15.png)
 **Diagram**
 
-![](Aspose.Words.519502d0-1632-440e-ba62-9814d2301199.002.png)
-
+![Aspose Words 519502d0-1632-440e-ba62-9814d2301199 001](https://user-images.githubusercontent.com/37781149/233167584-117f92b5-3332-4b56-acd7-c04effb4b1d2.png)
 **Dependencies**
 
 - requests
