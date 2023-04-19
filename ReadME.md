@@ -4,7 +4,7 @@ This code retrieves data from two JSON APIs and displays the status of each play
 
 **Screenshot**
 
-![Aspose Words 519502d0-1632-440e-ba62-9814d2301199 001](https://user-images.githubusercontent.com/37781149/233167584-117f92b5-3332-4b56-acd7-c04effb4b1d2.png)
+![Aspose Words 519502d0-1632-440e-ba62-9814d2301199 001](https://user-images.githubusercontent.com/37781149/233168623-4ba5cc2f-8cbf-453b-ae53-d20be83c01d8.png)
 
 **Diagram**
 
