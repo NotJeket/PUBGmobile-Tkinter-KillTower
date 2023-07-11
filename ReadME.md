@@ -8,7 +8,8 @@ This code retrieves data from two JSON APIs and displays the status of each play
 
 **Diagram**
 
-![Aspose Words 519502d0-1632-440e-ba62-9814d2301199 002](https://user-images.githubusercontent.com/37781149/233167591-4be21ced-0de0-4d60-80f0-98d0eff22a15.png)
+![code2flow_1GeYcs](https://github.com/NotJeket/PUBGmobile-Tkinter-KillTower/assets/37781149/9949939e-e278-4e2e-b152-01cdc38392a8)
+
 
 **Dependencies**
 
